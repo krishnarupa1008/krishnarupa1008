@@ -1,10 +1,10 @@
-- 👋😊🤝 Hi, I’m Krishna!
-- 🌼🌷🌻 Pronouns: She/Her.
-- 🌍📚💻 My motherland is South Africa, and I completed a Bachelor of Science degree in Mathematics and Computer Science in the U.S.
-- ☀️📈✨ I’m fervently passionate about the vibrant world of Data Science, and I currently teach programming and data science online.
-- 🌱📘✍️ My current topics of interest, curiosity and study are the mathematical backgrounds behind various aspects of Neural Networks.
-- 🎻🎹🎼 I also minored in Music during my studies, and I play the violin and piano, love to compose, and love music theory.
-- 📧📬💬 I'd love to collaborate or connect on anything related to Mathematics/CS/DS/Music! -> krishnarupa.ds@gmail.com
+👋😊🤝 Hi, I’m Krishna!<br>
+🌼🌷🌻 Pronouns: She/Her.<br>
+🌍📚💻 My motherland is South Africa, and I completed a Bachelor of Science in Mathematics and Computer Science in the U.S.<br>
+☀️📈✨ I’m fervently passionate about the vibrant world of Data Science, and I currently teach programming and data science.<br>
+🌱📘✍️ My current topics of interest, curiosity and study are the mathematical backgrounds behind the components of Neural Networks.<br>
+🎻🎹🎼 I also minored in Music during my studies, and I play the violin and piano, love to compose, and love music theory.<br>
+📧📬💬 I'd love to collaborate or connect on anything related to Mathematics/CS/DS/Music! -> krishnarupa.ds@gmail.com<br>
 
 
 <!---
