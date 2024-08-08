@@ -17,7 +17,7 @@
   🎻🎹🎼&nbsp;I also minored in Music during my studies, and I play the violin and piano, love to compose, and love music theory.
 </p>
 <p style="line-height: 0.5;">
-  📨💬💼&nbsp;I'd love to collaborate or connect on anything related to Mathematics/CS/DS/Music! -> <b>krishnarupa.ds@gmail.com</b> 
+  📨💬💼&nbsp;I'm happy to collaborate or connect on anything related to Mathematics/CS/DS/Music! -> <b>krishnarupa.ds@gmail.com</b> 
 </p>
 
 
