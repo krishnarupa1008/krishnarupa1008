@@ -8,7 +8,7 @@
   🌍📚💻&nbsp;My motherland is South Africa, and I completed a Bachelor of Science in Mathematics and Computer Science in the U.S.
 </p>
 <p style="line-height: 0.5;">
-  ☀️📈✨&nbsp;I’m fervently passionate about the vibrant world of <em>Data Science</em>, and I currently teach Data Science online.
+  ☀️📈✨&nbsp;I’m fervently passionate about the vibrant world of <b><em>Data Science</em></b>, and I currently teach Data Science online.
 </p>
 <p style="line-height: 0.5;">
   🌱📘✍️&nbsp;My current topics of curiosity and study are the mathematical backgrounds behind various components of Neural Networks.
