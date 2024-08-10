@@ -1,5 +1,5 @@
 <p style="line-height: 0.5;">
-  👋😊🤝&nbsp;Hi, I’m Krishna!
+  👋😊🤝&nbsp;Hi, I’m Krishna! 
 </p>
 <p style="line-height: 0.5;">
   🌼🌷🌻&nbsp;&nbsp;Pronouns: She/Her.
