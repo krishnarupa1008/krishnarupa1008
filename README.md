@@ -5,7 +5,7 @@
   🌼🌷🌻&nbsp;&nbsp;Pronouns: She/Her.
 </p>
 <p style="line-height: 0.5;">
-  🌍📚💻&nbsp;My motherland is South Africa, and I completed a Bachelor of Science in Mathematics and Computer Science in Philadelphia, U.S.
+  🌍📚💻&nbsp;My motherland is South Africa, and I completed a Bachelor of Science in Mathematics and Computer Science in Philadelphia.
 </p>
 <p style="line-height: 0.5;">
   ☀️📈✨&nbsp;I’m fervently passionate about the vibrant world of <b><em>Data Science</em></b>, and I currently teach DS/Programming/Math.
