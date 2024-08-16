@@ -11,7 +11,7 @@
   ☀️📈✨&nbsp;I’m fervently passionate about the vibrant world of <b><em>Data Science</em></b>, and I currently teach DS/Programming/Math.
 </p>
 <p style="line-height: 0.5;">
-  🌱📘✍️&nbsp;My current topics of curiosity and study are the mathematical backgrounds behind various components of Neural Networks.
+  🌱📘✍️&nbsp;My current topic of study and curiosity is the mathematics behind the workings and components of Neural Networks.
 </p>
 <p style="line-height: 0.5;">
   🎻🎹🎼&nbsp;I also minored in Music during my studies, and I play the violin and piano, love to compose, and love music theory.
