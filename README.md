@@ -11,7 +11,7 @@
   ☀️📈✨&nbsp;I’m fervently passionate about the vibrant world of <b><em>Data Science</em></b>, and I currently teach DS/Programming/Math.
 </p>
 <p style="line-height: 0.5;">
-  🌱📘✍️&nbsp;My current topics of study are: Recommendation Systems; the mathematics behind Neural Networks; Random Forests.
+  🌱📘✍️&nbsp;My current topics of study are: Recommendation Systems; Neural Networks; Random Forests.
 </p>
 <p style="line-height: 0.5;">
   🎻🎹🎼&nbsp;I also minored in Music during my studies, and I play the violin and piano, love to compose, and love music theory.
