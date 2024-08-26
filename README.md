@@ -8,10 +8,10 @@
   🌍📚💻&nbsp;My motherland is South Africa, and I completed a Bachelor of Science in Mathematics and Computer Science in Philadelphia.
 </p>
 <p style="line-height: 0.5;">
-  ☀️📈✨&nbsp;I’m fervently passionate about the vibrant world of <b><em>Data Science</em></b>, and I currently teach DS/Programming/Math.
+  ☀️📈✨&nbsp;I’m fervently passionate about the vibrant world of <b><em>Data Science</em></b>, and I currently teach DS/Programming/Mathematics.
 </p>
 <p style="line-height: 0.5;">
-  🌱📘✍️&nbsp;My current topics of study are: Recommendation Systems; Neural Networks; Random Forests.
+  🌱📘✍️&nbsp;My current topics of interest are: Recommendation Systems; Neural Networks; Random Forests.
 </p>
 <p style="line-height: 0.5;">
   🎻🎹🎼&nbsp;I also minored in Music during my studies, and I play the violin and piano, love to compose, and love music theory.
