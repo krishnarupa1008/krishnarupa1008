@@ -1,8 +1,5 @@
 <p style="line-height: 0.5;">
-  👋😊🤝&nbsp;Hi, I’m Krishna! 
-</p>
-<p style="line-height: 0.5;">
-  🌼🌷🌻&nbsp;&nbsp;Pronouns: She/Her.
+  👋🤝🌼&nbsp;Hi, I’m Krishna! 
 </p>
 <p style="line-height: 0.5;">
   🌍📚💻&nbsp;My motherland is South Africa, and I completed a Bachelor of Science in Mathematics and Computer Science in Philadelphia.
