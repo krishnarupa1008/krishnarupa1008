@@ -11,10 +11,10 @@
   📘✍️&nbsp;My current topics of interest are: Recommendation Systems; Neural Networks; Optimization.
 </p>
 <p style="line-height: 0.5;">
-  🎻🎹&nbsp;I'm a violinist, and I love to perform, compose, arrange, make pop covers, improvise with other musicians, and teach music. I also greatly enjoy music theory.
+  🎻🎹&nbsp;I'm also a violinist, and I love to perform, compose, arrange, make pop covers, improvise with other musicians, and teach music. I also greatly enjoy music theory.
 </p>
 <p style="line-height: 0.5;">
-  📨💬&nbsp;I'm happy to collaborate and connect on anything related to DS/ML/Music: <a href="mailto:krishnarupa.ds@gmail.com">krishnarupa.ds@gmail.com</a>
+  📨💬&nbsp;I'm happy to collaborate on interesting projects: <a href="mailto:krishnarupa.ds@gmail.com">krishnarupa.ds@gmail.com</a>
 </p>
 
 
