@@ -2,10 +2,10 @@
   👋🌼&nbsp;Hi, I’m Krishna! 
 </p>
 <p style="line-height: 0.5;">
-  🌍📚&nbsp;My motherland is South Africa, I'm currently doing my MSc. in Data Science at the University of Basel, Switzerland, and I completed my BSc. in Mathematics and Computer Science at Temple University, Philadelphia, U.S.
+  🌍📚&nbsp;I'm a data scientist from South Africa, and I completed my BSc. in Mathematics and Computer Science at Temple University, Philadelphia, U.S.
 </p>
 <p style="line-height: 0.5;">
-  📈✨&nbsp;I’m fervently passionate about the vibrant world of <b><em>Data Science</em></b>, and I enjoy teaching and consulting in the space of Data Science, Data Analytics and Machine Learning.
+  📈✨&nbsp;I’m fervently passionate about the vibrant world of <b><em>Data Science</em></b>, and I enjoy teaching Data Science, Machine Learning and Mathematics.
 </p>
 <p style="line-height: 0.5;">
   📘✍️&nbsp;My current topics of interest are: Recommendation Systems; Neural Networks; Optimization.
